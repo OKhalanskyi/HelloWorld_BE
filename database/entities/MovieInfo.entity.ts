@@ -1,4 +1,13 @@
-import { Column, Entity, JoinColumn, JoinTable, ManyToMany, OneToOne, PrimaryGeneratedColumn } from 'typeorm';
+import {
+  Column,
+  Entity,
+  JoinColumn,
+  JoinTable,
+  ManyToMany, ManyToOne,
+  OneToMany,
+  OneToOne,
+  PrimaryGeneratedColumn
+} from 'typeorm';
 import { PersonEntity } from './Person.entity';
 import { MovieEntity } from './Movie.entity';
 
@@ -18,7 +27,7 @@ export class MovieInfoEntity {
   @JoinColumn()
   movie: MovieEntity;
 
-  @OneToOne(() => PersonEntity, person => person.id)
+  @ManyToOne(() => PersonEntity, person => person.id)
   @JoinColumn()
   director: PersonEntity;
 }

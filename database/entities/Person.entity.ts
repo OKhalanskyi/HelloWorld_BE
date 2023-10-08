@@ -1,4 +1,4 @@
-import { Column, Entity, ManyToMany, OneToOne, PrimaryGeneratedColumn } from 'typeorm';
+import { Column, Entity, ManyToMany, OneToMany, PrimaryGeneratedColumn } from 'typeorm';
 import { MovieInfoEntity } from './MovieInfo.entity';
 
 @Entity({ name: 'people' })
@@ -6,12 +6,12 @@ export class PersonEntity {
   @PrimaryGeneratedColumn()
   id: number
 
-  @Column({ nullable: false, type: 'text' })
+  @Column({ nullable: false, type: 'text', unique: true })
   name: string
 
   @ManyToMany(() => MovieInfoEntity, movie => movie.actors)
   movieInfos: MovieInfoEntity[];
 
-  @OneToOne(() => MovieInfoEntity, movieInfo => movieInfo.director)
-  movieInfo: MovieInfoEntity;
+  @OneToMany(() => MovieInfoEntity, movieInfo => movieInfo.director)
+  movieInfo: MovieInfoEntity[];
 }

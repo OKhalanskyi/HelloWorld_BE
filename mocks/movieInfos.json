@@ -1,0 +1,334 @@
+{
+  "movieInfos": [
+    {
+      "movie": "The Dark Knight",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ]
+    },
+    {
+      "movie": "The Shawshank Redemption",
+      "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+      "director": "Frank Darabont",
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ]
+    },
+    {
+      "movie": "The Godfather",
+      "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ]
+    },
+    {
+      "movie": "The Godfather Part II",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+      ]
+    },
+    {
+      "movie": "12 Angry Men",
+      "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "director": "Sidney Lumet",
+      "actors": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "Martin Balsam"
+      ]
+    },
+    {
+      "movie": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Liam Neeson",
+        "Ralph Fiennes",
+        "Ben Kingsley"
+      ]
+    },
+    {
+      "movie": "The Lord of the Rings: The Return of the King",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ]
+    },
+    {
+      "movie": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.\n",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ]
+    },
+    {
+      "movie": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ]
+    },
+    {
+      "movie": "The Good, the Bad and the Ugly",
+      "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "director": "Sergio Leone",
+      "actors": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef"
+      ]
+    },
+    {
+      "movie": "Forrest Gump",
+      "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ]
+    },
+    {
+      "movie": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "director": "David Fincher",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ]
+    },
+    {
+      "movie": "The Lord of the Rings: The Two Towers",
+      "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ]
+    },
+    {
+      "movie": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ]
+    },
+    {
+      "movie": "Star Wars: Episode V - The Empire Strikes Back",
+      "description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+      "director": "Irvin Kershner",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ]
+    },
+    {
+      "movie": "The Matrix",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "director": "Lana Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ]
+    },
+    {
+      "movie": "GoodFellas",
+      "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci"
+      ]
+    },
+    {
+      "movie": "One Flew Over the Cuckoo's Nest",
+      "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+      "director": "Milos Forman",
+      "actors": [
+        "Louise Fletcher",
+        "Jack Nicholson",
+        "Michael Berryman"
+      ]
+    },
+    {
+      "movie": "Seven",
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "director": "David Fincher",
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+      ]
+    },
+    {
+      "movie": "Spider-Man: Across the Spider-Verse",
+      "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+      "director": "Joaquim Dos Santos",
+      "actors": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry"
+      ]
+    },
+    {
+      "movie": "It's a Wonderful Life",
+      "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+      "director": "Frank Capra",
+      "actors": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore"
+      ]
+    },
+    {
+      "movie": "Seven Samurai",
+      "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+      "director": "Akira Kurosawa",
+      "actors": [
+        "Toshirô Mifune",
+        "Takashi Shimura",
+        "Keiko Tsushima"
+      ]
+    },
+    {
+      "movie": "Interstellar",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ]
+    },
+    {
+      "movie": "The Silence of the Lambs",
+      "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "director": "Jonathan Demme",
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney"
+      ]
+    },
+    {
+      "movie": "Saving Private Ryan",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+      ]
+    },
+    {
+      "movie": "City of God",
+      "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "director": "Fernando Meirelles",
+      "actors": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Matheus Nachtergaele"
+      ]
+    },
+    {
+      "movie": "Life Is Beautiful",
+      "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+      "director": "Roberto Benigni",
+      "actors": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini"
+      ]
+    },
+    {
+      "movie": "The Green Mile",
+      "description": "A tale set on death row in a Southern jail, where gentle giant John possesses the mysterious power to heal people's ailments. When the lead guard, Paul, recognizes John's gift, he tries to help stave off the condemned man's execution.",
+      "director": "Frank Darabont",
+      "actors": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse"
+      ]
+    },
+    {
+      "movie": "Star Wars: Episode IV - A New Hope",
+      "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+      "director": "George Lucas",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ]
+    },
+    {
+      "movie": "Terminator 2: Judgment Day",
+      "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+      "director": "James Cameron",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+      ]
+    },
+    {
+      "movie": "Back to the Future",
+      "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ]
+    },
+    {
+      "movie": "Oppenheimer",
+      "description": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon"
+      ]
+    },
+    {
+      "movie": "Django Unchained",
+      "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+      ]
+    }
+  ]
+}
