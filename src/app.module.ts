@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { connectionDatabase } from '../database/typeorm-config';
+import { MovieModule } from './modules/movie/movie.module';
 
 @Module({
   imports: [
@@ -12,7 +13,8 @@ import { connectionDatabase } from '../database/typeorm-config';
     TypeOrmModule.forRoot({
       ...connectionDatabase,
       autoLoadEntities: true
-    })
+    }),
+    MovieModule
   ],
   controllers: [],
   providers: [],
