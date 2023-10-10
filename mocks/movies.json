@@ -1,0 +1,268 @@
+{
+  "movies": [
+    {
+      "title": "The Dark Knight",
+      "image": "https://i.pinimg.com/564x/66/c2/7b/66c27b662f65f5f822603ec655c4b909.jpg",
+      "rating": 9.0,
+      "year": 2008,
+      "duration": 152,
+      "genres": ["Action", "Crime", "Drama"]
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "image": "https://i.pinimg.com/564x/79/16/6e/79166e4949d39ef2c7fe1f4848e343c1.jpg",
+      "rating": 9.3,
+      "year": 1994,
+      "duration": 144,
+      "genres": ["Drama"]
+    },
+    {
+      "title": "The Godfather",
+      "image": "https://i.pinimg.com/564x/27/16/ee/2716ee42d6eac041f5d4e1a8630b3dc0.jpg",
+      "rating": 9.2,
+      "year": 1972,
+      "duration": 175,
+      "genres": ["Drama", "Crime"]
+    },
+    {
+      "title": "The Godfather Part II",
+      "image": "https://i.pinimg.com/564x/9d/ba/a3/9dbaa350d0961c7bd208957a5dd4f7a7.jpg",
+      "rating": 9.0,
+      "year": 1974,
+      "duration": 202,
+      "genres": ["Drama", "Crime"]
+    },
+    {
+      "title": "12 Angry Men",
+      "image": "https://i.pinimg.com/564x/ca/38/da/ca38dacb6584c1eb204b052b6ee796cf.jpg",
+      "rating": 9.0,
+      "year": 1957,
+      "duration": 96,
+      "genres": ["Drama", "Crime"]
+    },
+    {
+      "title": "Schindler's List",
+      "image": "https://i.pinimg.com/564x/5f/3b/ae/5f3baeb5c837e27eb1414aed2abf5ecd.jpg",
+      "rating": 9.0,
+      "year": 1993,
+      "duration": 195,
+      "genres": ["Biography", "Drama", "History"]
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "image": "https://i.pinimg.com/564x/16/45/9b/16459b5858edf81a707da0161d8eaea1.jpg",
+      "rating": 9.0,
+      "year": 2003,
+      "duration": 201,
+      "genres": ["Action", "Drama", "Adventure"]
+    },
+    {
+      "title": "Pulp Fiction",
+      "image": "https://i.pinimg.com/564x/e4/05/0b/e4050b92335cde4a3b5ae340fc8c5ee3.jpg",
+      "rating": 8.9,
+      "year": 1994,
+      "duration": 154,
+      "genres": ["Crime", "Drama"]
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "image": "https://i.pinimg.com/564x/3b/74/73/3b747363eb22132cf4f2d0641536236c.jpg",
+      "rating": 8.8,
+      "year": 2001,
+      "duration": 178,
+      "genres": ["Action", "Drama", "Adventure"]
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "image": "https://i.pinimg.com/564x/2c/22/b3/2c22b30a48f86418eb89fcad7a309bd9.jpg",
+      "rating": 8.8,
+      "year": 1966,
+      "duration": 148,
+      "genres": ["Adventure", "Western"]
+    },
+    {
+      "title": "Forrest Gump",
+      "image": "https://i.pinimg.com/564x/02/6b/0d/026b0d4dab1abe1c5f4460d6a45ae2ab.jpg",
+      "rating": 8.8,
+      "year": 1994,
+      "duration": 142,
+      "genres": ["Drama", "Romance"]
+    },
+    {
+      "title": "Fight Club",
+      "image": "https://i.pinimg.com/564x/45/b1/fe/45b1fe268d7f2c9bae25646c092a8556.jpg",
+      "rating": 8.8,
+      "year": 1999,
+      "duration": 139,
+      "genres": ["Drama"]
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "image": "https://i.pinimg.com/564x/8d/29/cc/8d29cc43978c1dd0e53c1371a15d98c6.jpg",
+      "rating": 8.8,
+      "year": 2002,
+      "duration": 179,
+      "genres": ["Action", "Drama", "Adventure"]
+    },
+    {
+      "title": "Inception",
+      "image": "https://i.pinimg.com/564x/43/9a/1c/439a1c4583a953c26b63d08a1d832f53.jpg",
+      "rating": 8.8,
+      "year": 2010,
+      "duration": 148,
+      "genres": ["Action", "Sci-Fi", "Adventure"]
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "image": "https://i.pinimg.com/564x/45/f9/cf/45f9cf382e2c26f3fec9ae2ebdaeed4e.jpg",
+      "rating": 8.7,
+      "year": 2010,
+      "duration": 148,
+      "genres": ["Action", "Fantasy", "Adventure"]
+    },
+    {
+      "title": "The Matrix",
+      "image": "https://i.pinimg.com/564x/ed/45/16/ed4516338fa5df348c13a2a7ce1e7998.jpg",
+      "rating": 8.7,
+      "year": 1999,
+      "duration": 136,
+      "genres": ["Action", "Sci-Fi"]
+    },
+    {
+      "title": "GoodFellas",
+      "image": "https://i.pinimg.com/564x/40/7f/ba/407fbabc044a23cfbf19f3d32206d013.jpg",
+      "rating": 8.7,
+      "year": 1990,
+      "duration": 145,
+      "genres": ["Drama", "Crime", "Biography"]
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "image": "https://i.pinimg.com/564x/32/6b/37/326b37dbeb46abea47b81fc09ceeecff.jpg",
+      "rating": 8.7,
+      "year": 1975,
+      "duration": 133,
+      "genres": ["Drama"]
+    },
+    {
+      "title": "Seven",
+      "image": "https://i.pinimg.com/564x/90/5f/7a/905f7ad874a7c34e60f5569896470965.jpg",
+      "rating": 8.6,
+      "year": 1995,
+      "duration": 127,
+      "genres": ["Drama", "Crime", "Mystery"]
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "image": "https://i.pinimg.com/474x/89/57/ab/8957ab1a620d347c3ecd001cef5a3547.jpg",
+      "rating": 8.7,
+      "year": 2023,
+      "duration": 140,
+      "genres": ["Animation", "Action", "Adventure"]
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "image": "https://i.pinimg.com/474x/74/f1/46/74f1461cadd514258316829aa6438371.jpg",
+      "rating": 8.6,
+      "year": 1946,
+      "duration": 130,
+      "genres": ["Drama", "Family", "Fantasy"]
+    },
+    {
+      "title": "Seven Samurai",
+      "image": "https://i.pinimg.com/474x/29/6c/e4/296ce4947ba90a090e077d8621cd5403.jpg",
+      "rating": 8.6,
+      "year": 1954,
+      "duration": 207,
+      "genres": ["Drama", "Action"]
+    },
+    {
+      "title": "Interstellar",
+      "image": "https://i.pinimg.com/474x/0b/34/ce/0b34ce2145b475247577a5d438a199b0.jpg",
+      "rating": 8.7,
+      "year": 2014,
+      "duration": 169,
+      "genres": ["Drama", "Sci-Fi", "Adventure"]
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "image": "https://i.pinimg.com/474x/50/8e/3e/508e3ee54eea242f5c80e80837bb4c45.jpg",
+      "rating": 8.6,
+      "year": 1991,
+      "duration": 118,
+      "genres": ["Drama", "Crime", "Thriller"]
+    },
+    {
+      "title": "Saving Private Ryan",
+      "image": "https://i.pinimg.com/474x/f1/56/34/f1563452a5378c474a69e4d051d92fa1.jpg",
+      "rating": 8.6,
+      "year": 1998,
+      "duration": 169,
+      "genres": ["Drama", "War"]
+    },
+    {
+      "title": "City of God",
+      "image": "https://i.pinimg.com/474x/ac/8f/c6/ac8fc6552af05e955e45f60e1870dfdc.jpg",
+      "rating": 8.6,
+      "year": 2002,
+      "duration": 130,
+      "genres": ["Drama", "Crime"]
+    },
+    {
+      "title": "Life Is Beautiful",
+      "image": "https://i.pinimg.com/474x/aa/93/46/aa9346436d5ecb2b11fa429eee6552cc.jpg",
+      "rating": 8.6,
+      "year": 1997,
+      "duration": 116,
+      "genres": ["Drama", "Comedy", "Romance"]
+    },
+    {
+      "title": "The Green Mile",
+      "image": "https://i.pinimg.com/474x/ca/1d/78/ca1d78a293fd9b959bb6b3d58d55faaf.jpg",
+      "rating": 8.6,
+      "year": 1999,
+      "duration": 189,
+      "genres": ["Drama", "Crime", "Fantasy"]
+    },
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "image": "https://i.pinimg.com/474x/bb/29/49/bb2949699f2fb63a09a1dc234989657a.jpg",
+      "rating": 8.6,
+      "year": 1977,
+      "duration": 121,
+      "genres": ["Action", "Fantasy", "Adventure"]
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "image": "https://i.pinimg.com/474x/f4/d4/17/f4d4176134293985d1bed8b979617a6b.jpg",
+      "rating": 8.6,
+      "year": 1991,
+      "duration": 137,
+      "genres": ["Action", "Sci-Fi"]
+    },
+    {
+      "title": "Back to the Future",
+      "image": "https://i.pinimg.com/474x/81/17/45/81174579c578a791d10e4566f2732eac.jpg",
+      "rating": 8.5,
+      "year": 1985,
+      "duration": 116,
+      "genres": ["Adventure", "Comedy", "Sci-Fi"]
+    },
+    {
+      "title": "Oppenheimer",
+      "image": "https://i.pinimg.com/474x/ba/31/b2/ba31b22d9a89a4c0fcc67fd7009fc795.jpg",
+      "rating": 9.5,
+      "year": 2023,
+      "duration": 180,
+      "genres": ["Drama", "Biography", "History"]
+    },
+    {
+      "title": "Django Unchained",
+      "image": "https://i.pinimg.com/474x/75/5a/5a/755a5a304c8e73839d673053dba87d51.jpg",
+      "rating": 8.5,
+      "year": 1012,
+      "duration": 165,
+      "genres": ["Drama", "Western"]
+    }
+  ]
+}

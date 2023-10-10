@@ -1,10 +1,22 @@
 import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
+import { ConfigModule } from '@nestjs/config';
+import { TypeOrmModule } from '@nestjs/typeorm';
+import { connectionDatabase } from '../database/typeorm-config';
+import { MovieModule } from './modules/movie/movie.module';
 
 @Module({
-  imports: [],
-  controllers: [AppController],
-  providers: [AppService],
+  imports: [
+    ConfigModule.forRoot({
+      envFilePath: '.env',
+      isGlobal: true
+    }),
+    TypeOrmModule.forRoot({
+      ...connectionDatabase,
+      autoLoadEntities: true
+    }),
+    MovieModule
+  ],
+  controllers: [],
+  providers: [],
 })
 export class AppModule {}
