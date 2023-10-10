@@ -15,6 +15,6 @@ export const connectionDatabase: DataSourceOptions & SeederOptions = {
   migrationsTableName: 'migrations',
   // migrationsRun: true,
   ssl: true,
-  seeds: ['database/seeds/*{.ts,.js}'],
-  factories: ['src/database/factories/*{.ts,.js}']
+  // seeds: ['database/seeds/*{.ts,.js}'],
+  // factories: ['src/database/factories/*{.ts,.js}']
 }
