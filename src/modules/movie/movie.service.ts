@@ -38,6 +38,7 @@ export class MovieService {
     try {
       const movie = await this.movieRepository
         .createQueryBuilder('movie')
+        .leftJoinAndSelect('movie.genres', 'genres')
         .leftJoinAndSelect('movie.movieInfo', 'movieInfos')
         .leftJoinAndSelect('movieInfos.actors', 'people')
         .leftJoin('movieInfos.director', 'director')
